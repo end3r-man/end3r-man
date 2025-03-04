@@ -4,15 +4,15 @@ I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [Php, Rust, Bash, HTML, Javascript, Lua, GDScript]
-- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind, Vue JS, Alpine Js, Rocket, Godot]
-- **Databases:** [Mysql, Sqlite3, Surreal Db]
-- **Tools:** [Vs-Codium, Waterfox, Pytorch]
+- **Languages:** [Php, Rust, Bash, HTML, Javascript, Lua, GDScript, Go]
+- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind, Vue JS, Alpine Js, Rocket, Godot, Svelte]
+- **Databases:** [Mysql, Sqlite, Surreal Db, Mongodb, PostgreSQL]
+- **Tools:** [Nvim, Vs-Codium, Waterfox, Pytorch, Comfyui]
 
 ## 🌱 I'm Currently Learning
 
-- Livewire/Php
-- Alpinejs/Javascript
+- Go/Net-http
+- Php/Laravel
 
 ## 📈 GitHub Stats
 
